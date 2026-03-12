@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋, I'm Stelios Taliadoros,<br><br>💻 I’m passionate about programming and always motivated to learn, build, and improve. <br>I enjoy exploring new technologies and creating efficient, meaningful software.<br><br>🚀 I like working on full-stack applications, experimenting with new tools, and turning ideas into real projects.<br><br>📚 Always eager to learn something new and continuously grow as a developer while taking on new opportunities and challenges.
+Hello 👋, I'm Stelios Taliadoros. <br><br>💻 I’m passionate about programming and always motivated to learn, build, and improve. <br>I enjoy exploring new technologies and creating efficient, meaningful software.<br><br>🚀 I like working on full-stack applications, experimenting with new tools, and turning ideas into real projects.<br><br>📚 Always eager to learn something new and continuously grow as a developer while taking on new opportunities and challenges.
 
 
 ## 🌐 Socials:
